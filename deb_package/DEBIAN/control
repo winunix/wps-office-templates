@@ -1,0 +1,11 @@
+Package: wps-office-templates
+Version: 0.0.1
+Installed-Size: 59951
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: localization
+Architecture: all
+Priority: optional
+Homepage: https://github.com/winunix
+Description: Modelos para WPS Office.
+ Este pacote é um fork do projeto de HenriqueAD:
+ Apoie seu projeto, SISTEMATICAMENTE!, em "www.youtube.com/OSistematico".
